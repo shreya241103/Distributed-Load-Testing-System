@@ -6,7 +6,9 @@ This project was developed as a part of the Semester 5 - Big Data course at PES 
 
 This project implements a distributed load-testing system utilizing Kafka for efficient communication between Orchestrator and Driver nodes. With a focus on high-concurrency and high-throughput testing, it enables seamless coordination for scalable and fault-tolerant load tests on web servers.
 
-## Demo
+## Architecture
+<img width="875" alt="image" src="https://github.com/user-attachments/assets/dc917e08-c9f9-4968-b6df-120ff462b690">
+
 
 ## Functionality
 
